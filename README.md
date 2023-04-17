@@ -1,4 +1,4 @@
-## Hi, I'm Andrea 👋
+## Hi, I'm Andrea 👋🏻
 #### Fontend developer & graphic designer
 
 
