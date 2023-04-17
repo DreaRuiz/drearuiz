@@ -1,6 +1,6 @@
-
 ## Hi, I'm Andrea 👋
 #### Fontend developer & graphic designer
+
 
 - 🌱 I am currently learning React JS.
 - 🔭 I'm in search of work presently.
