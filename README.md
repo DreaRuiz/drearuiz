@@ -2,7 +2,7 @@
 #### Fontend developer & graphic designer
 
 
-- 🌱 I am currently learning React JS.
+- 🌱 I'm currently learning React JS.
 - 🔭 I'm in search of work presently.
 - 💬 I'm developer & graphic design.
 - 📫 You can contact me by [email](info.drearuiz@gmail.com) or [Linkedin](https://www.linkedin.com/in/andrea-ruiz/)
