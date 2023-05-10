@@ -33,13 +33,11 @@
 <a href="https://daisyui.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg" alt="DaisyUI" width="40" height="40" style="max-width: 100%;"> </a></p>
 
 
-
 ☁️ Cloud services:
 </br>
 [Firebase](https://firebase.google.com/)
 </br>
-    <img src="https://img.icons8.com/color/50/000000/firebase.png"/>
-</br>
+  <p dir="auto"><a href="https://firebase.google.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/4bb20d999c9f0033b5019a85898fe927bc21390f867cdc149d618549b596b61e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35302f3030303030302f66697265626173652e706e67" alt="firebase" width="40" height="40" style="max-width: 100%;"> </a></p>
 
 ✏ Design:
 </br>
@@ -49,11 +47,13 @@
 [Photoshop](https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other) &
 [PremierePro](https://www.adobe.com/in/products/premiere.html)
 </br>
-  <img src="https://img.icons8.com/color/50/000000/figma.png"/>
-  <img src="https://img.icons8.com/color/50/000000/adobe-illustrator.png"/>
-  <img src="https://img.icons8.com/color/50/000000/adobe-indesign.png"/>
-  <img src="https://img.icons8.com/color/50/000000/adobe-photoshop.png"/>
-  <img src="https://img.icons8.com/color/50/000000/adobe-premiere-pro.png"/>
+ <p dir="auto">
+ <a href="https://www.figma.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/95865758a2ab4903a1376f27eaaba181564165f02e31212c14da5f763d4e7282/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35302f3030303030302f6669676d612e706e67" alt="figma" width="30" height="30" style="max-width: 100%;"> </a>
+</p>
+<p dir="auto"><a href="https://www.adobe.com/products/illustrator.html" rel="nofollow"><img src="https://camo.githubusercontent.com/306f775e5451d78a946602bac41a67cd4fad9f59a63ed33a1e4b8416a89e628d/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35302f3030303030302f61646f62652d696c6c7573747261746f722e706e67" alt="Illustrator" style="max-width: 100%;"></a>
+<a href="https://www.adobe.com/products/indesign.html" rel="nofollow"><img src="https://camo.githubusercontent.com/4efafdc4cce274d21b7913c8d8c1225ab255eb737fe763c096a346b25751971f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35302f3030303030302f61646f62652d696e64657369676e2e706e67" alt="Indesign" style="max-width: 100%;"></a>
+<a href="https://www.adobe.com/products/photoshop.html" rel="nofollow"><img src="https://camo.githubusercontent.com/4cde62a27234460750e432589c9005812fda0eb7fa9ef482783d0dc9788eb77e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35302f3030303030302f61646f62652d70686f746f73686f702e706e67" alt="Photoshop" style="max-width: 100%;"></a>
+<a href="https://www.adobe.com/products/premiere.html" rel="nofollow"><img src="https://camo.githubusercontent.com/29ed24902c6ffc34fc177a536398f7a0e6c5fdcefea7108d4a863f03828eaca9/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35302f3030303030302f61646f62652d7072656d696572652d70726f2e706e67" alt="Premiere" style="max-width: 100%;"></a></p>
 
 <!--
 **DreaRuiz/drearuiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
